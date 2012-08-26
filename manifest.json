@@ -1,0 +1,11 @@
+{
+    "name": "js-tidy",
+    "description": "js-tidy reformats JavaScript codes to make them easier to read.",
+    "version": "0.0.1",
+    "app": {
+        "launch": {
+            "local_path": "main.html"
+        }
+    },
+    "manifest_version": 2
+}

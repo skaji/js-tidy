@@ -1,0 +1,8 @@
+js-tidy
+====================
+
+js-tidy is a Google Chrome App, which reformats JavaScript codes
+to make them easier to read.
+
+
+ks0608
